@@ -6,3 +6,7 @@ New And Customize PureChat:
 
 - Support GuildsRPG (Near In The Future)
 - Fix All The Bugs
+
+# Upcoming :
+
+- [ ] Add Support For GuildsRPG
